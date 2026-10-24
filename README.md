@@ -1,0 +1,1 @@
+# namo-auto-publisher
